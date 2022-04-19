@@ -26,7 +26,6 @@ The file may be opened on any text editor.
 
 👤 **Daniela Reis**
 - GitHub: [@danidreis](https://github.com/danidreis)
-- 
 
 ## 🤝 Contributing
 
